@@ -1,5 +1,7 @@
 ## onoff
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/onoff.svg)](https://greenkeeper.io/)
+
 GPIO based I/O and interrupt detection with Node.js on Linux boards such as the
 BeagleBone or Raspberry Pi.
 
